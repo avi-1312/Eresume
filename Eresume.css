@@ -1,0 +1,64 @@
+div{
+    margin:10px;
+}
+
+.ResumeBody{
+    height: 1250px;
+    width: 800px;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+.text{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.line{
+   height: 4px;
+   width: 800px;
+   margin: 0;
+   background-color: black;
+}
+
+.text-1{
+    position: relative;
+    left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    width: 400px;
+}
+
+.text-2{
+    position: relative;
+    left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    width: 500px;
+}
+
+h4{
+    line-height: 10px;
+}
+
+
+progress{
+    width: 250px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color:#EA3D18
+}
