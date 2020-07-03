@@ -3,8 +3,8 @@ div{
 }
 
 .ResumeBody{
-    height: 1250px;
-    width: 800px;
+    height: 1150px;
+    width: 900px;
     border: 1px solid black;
 }
 
@@ -24,9 +24,9 @@ img{
 
 .line{
    height: 4px;
-   width: 800px;
+   width: 900px;
    margin: 0;
-   background-color: black;
+   background-color: rgb(243, 111, 3);
 }
 
 .text-1{
@@ -62,3 +62,4 @@ a {
     text-decoration: none;
     color:#EA3D18
 }
+
